@@ -20,7 +20,7 @@ I built this cross-platform app to learn how to handle mobile development and da
 * **Tech:** It’s built with **.NET MAUI**, **C#**, and **XAML**.
 * **How it works:** You can search for movies, save your favourites, and it works offline thanks to local caching.
 * **The Challenge:** I used the **MVVM pattern** to keep the code organized and spent a lot of time fixing bugs to make sure it ran smoothly on both Android and Windows.
-* [**View Project Repository**]([Movies Hub](https://github.com/MayaraQuadros/MovieExplorer))
+* **View Project**: [Movies Hub](https://github.com/MayaraQuadros/MovieExplorer)
 
 ---
 
