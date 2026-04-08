@@ -9,7 +9,7 @@ Before I started coding, I worked in **Production Management**. That experience 
 * **Languages:** Java, C#, C
 * **Web:** JavaScript, HTML, CSS, Typescript
 * **Frameworks:** .NET MAUI, Angular, Ionic
-* **Other bits:** MVVM, JSON, MySQL, API Integration, and Networking basics
+* **Others:** MVVM, JSON, MySQL, API Integration, and Networking basics
 
 ---
 
