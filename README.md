@@ -33,5 +33,5 @@ I built this cross-platform app to learn how to handle mobile development and da
 
 ### Contact
 * **LinkedIn:** [Mayara Quadros](https://www.linkedin.com/in/mayaraquadros/)
-* **Email:** [g00472144@atu.ie]
+* **Email:** g00472144@atu.ie
 * **Location:** Galway, Ireland 🇮🇪
